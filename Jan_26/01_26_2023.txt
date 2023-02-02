@@ -9,9 +9,12 @@
 #How to check the git status?
 
 - git status
+<<<<<<< HEAD
 
 Summary:
 
 git checkout HEAD filename: Discards changes in the working directory.
 git reset HEAD filename: Unstages file changes in the staging area.
 git reset commit_SHA: Resets to a previous commit in your commit history.
+=======
+>>>>>>> 6bc0022f6ec7d2e8693d65fe95861e8699bba079

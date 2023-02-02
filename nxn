@@ -1,0 +1,47 @@
+[33mcommit 8756353876f2f4590ca6e9fe30a27b8a38a43988[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Cyber Range Student <student@ip-10-1-89-137.ec2.internal>
+Date:   Thu Feb 2 06:10:37 2023 +0000
+
+    Added the command to see the git status
+
+[33mcommit 02ad520afcab0c4bfe0c6fa09fc87b654be17f35[m
+Author: Cyber Range Student <student@ip-10-1-89-137.ec2.internal>
+Date:   Thu Feb 2 05:57:19 2023 +0000
+
+    New file added for backtracking
+
+[33mcommit 99c2cc8b0d6fa31dd47dd9b2eead7598a27a2d17[m
+Author: Cyber Range Student <student@ip-10-1-89-137.ec2.internal>
+Date:   Fri Jan 27 05:15:07 2023 +0000
+
+    Added git command summary for lesson-1
+
+[33mcommit f5c8c992bc9ce46fa69deb426538d1b68725a8fa[m
+Author: Cyber Range Student <student@ip-10-1-89-137.ec2.internal>
+Date:   Fri Jan 27 04:58:59 2023 +0000
+
+    Added the rest of the files
+
+[33mcommit 983097eead7859933c66fbf89d7d195c5223d1cb[m
+Author: Cyber Range Student <student@ip-10-1-89-137.ec2.internal>
+Date:   Fri Jan 27 04:38:47 2023 +0000
+
+    added the ghost text
+
+[33mcommit b914acf0bd6b2f8f4821131a28e6094f20f727aa[m
+Author: Cyber Range Student <student@ip-10-1-89-137.ec2.internal>
+Date:   Fri Jan 27 03:05:23 2023 +0000
+
+    first file
+
+[33mcommit 3d120afc35af43c17813f7e7ef3bfd4f18f47f5a[m
+Author: Cyber Range Student <student@ip-10-1-89-137.ec2.internal>
+Date:   Fri Jan 27 01:56:42 2023 +0000
+
+    Added our first file
+
+[33mcommit 77de76a138f32044b78fa26d6d3ab7df1dd2eab9[m
+Author: Syed Mustafa <106790772+shm2045@users.noreply.github.com>
+Date:   Mon Jan 23 12:20:03 2023 -0500
+
+    Initial commit
